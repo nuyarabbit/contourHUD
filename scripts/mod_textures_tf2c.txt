@@ -1,0 +1,721 @@
+"sprites/640_hud"
+{
+	TextureData
+	{	
+		"obj_status_background_green"
+		{
+			"file"		"HUD/eng_status_area_tele_green"
+			"x"			"0"
+			"y"			"0"
+			"width"		"243"
+			"height"	"64"
+		}
+
+		"obj_status_background_yellow"
+		{
+			"file"		"HUD/eng_status_area_tele_yellow"
+			"x"			"0"
+			"y"			"0"
+			"width"		"243"
+			"height"	"64"
+		}
+
+		"obj_status_background_tall_green"	
+		{
+			"file"		"HUD/eng_status_area_sentry_green"
+			"x"		"0"
+			"y"		"0"
+			"width"		"243"
+			"height"	"110"
+		}
+
+		"obj_status_background_tall_yellow"	
+		{
+			"file"		"HUD/eng_status_area_sentry_yellow"
+			"x"		"0"
+			"y"		"0"
+			"width"		"243"
+			"height"	"110"
+		}
+
+		"progress_bar_grn"
+		{
+			"file"		"vgui/progress_bar_grn"
+			"x"		"0"
+			"y"		"0"
+			"width"		"128"
+			"height"	"128"
+		}			
+		"progress_bar_ylw"
+		{
+			"file"		"vgui/progress_bar_ylw"
+			"x"		"0"
+			"y"		"0"
+			"width"		"128"
+			"height"	"128"
+		}	
+
+		"dispenser_meter_bg_green"
+		{
+			"file"		"vgui/dispenser_meter_bg_green"
+			"x"		"0"
+			"y"		"0"
+			"width"		"256"
+			"height"	"128"
+		}	
+		
+		"dispenser_meter_bg_yellow"
+		{
+			"file"		"vgui/dispenser_meter_bg_yellow"
+			"x"		"0"
+			"y"		"0"
+			"width"		"256"
+			"height"	"128"
+		}	
+
+		"hud_menu_scout_grn"
+		{
+			"file"		"vgui/class_sel_sm_scout_grn"
+			"x"		"0"
+			"y"		"0"
+			"width"	"128"
+			"height" "256"
+		}
+		
+		"hud_menu_soldier_grn"
+		{
+			"file"		"vgui/class_sel_sm_soldier_grn"
+			"x"		"0"
+			"y"		"0"
+			"width"	"128"
+			"height" "256"
+		}
+		
+		"hud_menu_pyro_grn"
+		{
+			"file"		"vgui/class_sel_sm_pyro_grn"
+			"x"		"0"
+			"y"		"0"
+			"width"	"128"
+			"height" "256"
+		}
+		
+		"hud_menu_demoman_grn"
+		{
+			"file"		"vgui/class_sel_sm_demo_grn"
+			"x"		"0"
+			"y"		"0"
+			"width"	"128"
+			"height" "256"
+		}
+		
+		"hud_menu_heavy_grn"
+		{
+			"file"		"vgui/class_sel_sm_heavy_grn"
+			"x"		"0"
+			"y"		"0"
+			"width"	"128"
+			"height" "256"
+		}
+		
+		"hud_menu_engineer_grn"
+		{
+			"file"		"vgui/class_sel_sm_engineer_grn"
+			"x"		"0"
+			"y"		"0"
+			"width"	"128"
+			"height" "256"
+		}
+		
+		"hud_menu_medic_grn"
+		{
+			"file"		"vgui/class_sel_sm_medic_grn"
+			"x"		"0"
+			"y"		"0"
+			"width"	"128"
+			"height" "256"
+		}
+		
+		"hud_menu_sniper_grn"
+		{
+			"file"		"vgui/class_sel_sm_sniper_grn"
+			"x"		"0"
+			"y"		"0"
+			"width"	"128"
+			"height" "256"
+		}
+		
+		"hud_menu_spy_grn"
+		{
+			"file"		"vgui/class_sel_sm_spy_grn"
+			"x"		"0"
+			"y"		"0"
+			"width"	"128"
+			"height" "256"
+		}	
+
+		"hud_menu_scout_ylw"
+		{
+			"file"		"vgui/class_sel_sm_scout_ylw"
+			"x"		"0"
+			"y"		"0"
+			"width"	"128"
+			"height" "256"
+		}
+		
+		"hud_menu_soldier_ylw"
+		{
+			"file"		"vgui/class_sel_sm_soldier_ylw"
+			"x"		"0"
+			"y"		"0"
+			"width"	"128"
+			"height" "256"
+		}
+		
+		"hud_menu_pyro_ylw"
+		{
+			"file"		"vgui/class_sel_sm_pyro_ylw"
+			"x"		"0"
+			"y"		"0"
+			"width"	"128"
+			"height" "256"
+		}
+		
+		"hud_menu_demoman_ylw"
+		{
+			"file"		"vgui/class_sel_sm_demo_ylw"
+			"x"		"0"
+			"y"		"0"
+			"width"	"128"
+			"height" "256"
+		}
+		
+		"hud_menu_heavy_ylw"
+		{
+			"file"		"vgui/class_sel_sm_heavy_ylw"
+			"x"		"0"
+			"y"		"0"
+			"width"	"128"
+			"height" "256"
+		}
+		
+		"hud_menu_engineer_ylw"
+		{
+			"file"		"vgui/class_sel_sm_engineer_ylw"
+			"x"		"0"
+			"y"		"0"
+			"width"	"128"
+			"height" "256"
+		}
+		
+		"hud_menu_medic_ylw"
+		{
+			"file"		"vgui/class_sel_sm_medic_ylw"
+			"x"		"0"
+			"y"		"0"
+			"width"	"128"
+			"height" "256"
+		}
+		
+		"hud_menu_sniper_ylw"
+		{
+			"file"		"vgui/class_sel_sm_sniper_ylw"
+			"x"		"0"
+			"y"		"0"
+			"width"	"128"
+			"height" "256"
+		}
+		
+		"hud_menu_spy_ylw"
+		{
+			"file"		"vgui/class_sel_sm_spy_ylw"
+			"x"		"0"
+			"y"		"0"
+			"width"	"128"
+			"height" "256"
+		}	
+
+		"hud_menu_scout_global"
+		{
+			"file"		"vgui/class_sel_sm_scout_global"
+			"x"		"0"
+			"y"		"0"
+			"width"	"128"
+			"height" "256"
+		}
+		
+		"hud_menu_soldier_global"
+		{
+			"file"		"vgui/class_sel_sm_soldier_global"
+			"x"		"0"
+			"y"		"0"
+			"width"	"128"
+			"height" "256"
+		}
+		
+		"hud_menu_pyro_global"
+		{
+			"file"		"vgui/class_sel_sm_pyro_global"
+			"x"		"0"
+			"y"		"0"
+			"width"	"128"
+			"height" "256"
+		}
+		
+		"hud_menu_demoman_global"
+		{
+			"file"		"vgui/class_sel_sm_demo_global"
+			"x"		"0"
+			"y"		"0"
+			"width"	"128"
+			"height" "256"
+		}
+		
+		"hud_menu_heavy_global"
+		{
+			"file"		"vgui/class_sel_sm_heavy_global"
+			"x"		"0"
+			"y"		"0"
+			"width"	"128"
+			"height" "256"
+		}
+		
+		"hud_menu_engineer_global"
+		{
+			"file"		"vgui/class_sel_sm_engineer_global"
+			"x"		"0"
+			"y"		"0"
+			"width"	"128"
+			"height" "256"
+		}
+		
+		"hud_menu_medic_global"
+		{
+			"file"		"vgui/class_sel_sm_medic_global"
+			"x"		"0"
+			"y"		"0"
+			"width"	"128"
+			"height" "256"
+		}
+		
+		"hud_menu_sniper_global"
+		{
+			"file"		"vgui/class_sel_sm_sniper_global"
+			"x"		"0"
+			"y"		"0"
+			"width"	"128"
+			"height" "256"
+		}
+		
+		"hud_menu_spy_global"
+		{
+			"file"		"vgui/class_sel_sm_spy_global"
+			"x"		"0"
+			"y"		"0"
+			"width"	"128"
+			"height" "256"
+		}
+		
+		// Buildings
+		"obj_status_alert_background_nocolor"
+		{
+			"file"		"HUD/eng_status_area_tele_alrt_nocolor"
+			"x"			"0"
+			"y"			"0"
+			"width"		"80"
+			"height"	"64"
+		}
+		
+		// Jump Pad
+		"obj_status_jumppad"
+		{
+			"file"	"hud/hud_obj_status_jumppad"
+			"x"		"0"
+			"y"		"0"
+			"width"		"128"
+			"height"	"128"
+		}
+		
+		"obj_status_upgrade_a"
+		{
+			"file"	"HUD/hud_upgrade_a"
+			"x"		"0"
+			"y"		"0"
+			"width"		"64"
+			"height"	"64"
+		}
+		
+		"obj_status_upgrade_b"
+		{
+			"file"	"HUD/hud_upgrade_b"
+			"x"		"0"
+			"y"		"0"
+			"width"		"64"
+			"height"	"64"
+		}
+		
+		"hud_menu_jumppad_a_build"
+		{
+			"file"		"hud/eng_build_jumppad_a_blueprint"
+			"x"			"0"
+			"y"			"0"
+			"width"		"128"
+			"height"	"128"
+		}
+		
+		"hud_menu_jumppad_b_build"
+		{
+			"file"		"hud/eng_build_jumppad_b_blueprint"
+			"x"			"0"
+			"y"			"0"
+			"width"		"128"
+			"height"	"128"
+		}
+		
+		"vip_icon"
+		{
+			"file"		"hud/leaderboard_class_civilian"
+			"x"		"0"
+			"y"		"0"
+			"width"	"64"
+			"height"	"64"
+		}
+		
+		///////////// 2.2.0 //////////////
+		"anchor"
+		{
+				"dfile"	"HUD/d_images_220"
+				"dnegfile"	"HUD/dneg_images_220"
+				"x"		"0"
+				"y"		"0"
+				"width"		"55"
+				"height"	"32"
+		}
+		"earthquake"
+		{
+				"dfile"	"HUD/d_images_220"
+				"dnegfile"	"HUD/dneg_images_220"
+				"x"		"0"
+				"y"		"33"
+				"width"		"85"
+				"height"	"32"
+		}
+		"canehook"
+		{
+				"dfile"	"HUD/d_images_220"
+				"dnegfile"	"HUD/dneg_images_220"
+				"x"		"0"
+				"y"		"66"
+				"width"		"93"
+				"height"	"32"
+		}
+		"taunt_soldier"
+		{
+				"dfile"	"HUD/d_images_tip"
+				"dnegfile"	"HUD/dneg_images_tip"
+				"x"		"512"
+				"y"		"128"
+				"width"		"63"
+				"height"	"32"
+		}
+		///////////// killfeed icon backgrounds //////////////
+		"minicrit"
+		{
+				"dfile" "HUD/d_images_tf2c"
+				"dnegfile" "HUD/dneg_images_tf2c"
+				"x"		"128"
+				"y"		"0"
+				"width"		"63"
+				"height"	"32"
+		}
+		"tranquilized"
+		{
+				"dfile" "HUD/d_images_tf2c"
+				"dnegfile" "HUD/dneg_images_tf2c"
+				"x"		"192"
+				"y"		"0"
+				"width"		"63"
+				"height"	"32"
+		}
+		///////////// ported rasters //////////////
+		"nailgun"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"26"
+				"y"		"0"
+				"width"		"74"
+				"height"	"32"
+		}
+		"umbrella"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"18"
+				"y"		"192"
+				"width"		"92"
+				"height"	"32"
+		}
+		"fishwhacker"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"6"
+				"y"		"64"
+				"width"		"114"
+				"height"	"32"
+		}
+		"telefrag"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"28"
+				"y"		"256"
+				"width"		"72"
+				"height"	"32"
+		}
+		"hunterrifle"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"0"
+				"y"		"32"
+				"width"		"128"
+				"height"	"32"
+		}
+		"rpg"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"16"
+				"y"		"160"
+				"width"		"96"
+				"height"	"32"
+		}
+		"taunt_mirv"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"128"
+				"y"		"64"
+				"width"		"64"
+				"height"	"32"
+		}
+		"mirv_projectile"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"128"
+				"y"		"64"
+				"width"		"64"
+				"height"	"32"
+		}
+		"mirv_bomb"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"192"
+				"y"		"64"
+				"width"		"64"
+				"height"	"32"
+		}
+		"mirv_direct"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"192"
+				"y"		"160"
+				"width"		"64"
+				"height"	"32"
+		}
+		"tranq_old"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"0"
+				"y"		"96"
+				"width"		"128"
+				"height"	"32"
+		}
+		"deflect_tranq"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"128"
+				"y"		"160"
+				"width"		"64"
+				"height"	"32"
+		}
+		"coilgun"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"24"
+				"y"		"128"
+				"width"		"78"
+				"height"	"32"
+		}
+		"coilgun_charged"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"128"
+				"y"		"128"
+				"width"		"64"
+				"height"	"32"
+		}
+		"deflect_coilgun"
+		{
+				"dfile"	"HUD/d_images_tip"
+				"dnegfile"	"HUD/dneg_images_tip"
+				"x"		"639"
+				"y"		"287"
+				"width"		"66"
+				"height"	"32"
+		}
+		"proxymine"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"192"
+				"y"		"32"
+				"width"		"64"
+				"height"	"32"
+		}
+		"taser"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"0"
+				"y"		"480"
+				"width"		"128"
+				"height"	"32"
+		}
+		"taser_uncharged"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"280"
+				"y"		"0"
+				"width"		"80"
+				"height"	"32"
+		}
+		"tranq"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"128"
+				"y"		"32"
+				"width"		"64"
+				"height"	"32"
+		}
+		"aa_cannon"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"0"
+				"y"		"288"
+				"width"		"128"
+				"height"	"32"
+		}
+		"harvester"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"20"
+				"y"		"352"
+				"width"		"88"
+				"height"	"32"
+		}
+		"chekhov"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"20"
+				"y"		"416"
+				"width"		"88"
+				"height"	"32"
+		}		
+		"harvester_decapitation"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"20"
+				"y"		"384"
+				"width"		"88"
+				"height"	"32"
+		}
+		"doubleshotgun"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"10"
+				"y"		"320"
+				"width"		"108"
+				"height"	"32"
+		}
+		"brick"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"128"
+				"y"		"96"
+				"width"		"64"
+				"height"	"32"
+		}
+		"deflect_brick"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"192"
+				"y"		"96"
+				"width"		"64"
+				"height"	"32"
+		}
+		"brick_building"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"192"
+				"y"		"128"
+				"width"		"64"
+				"height"	"32"
+		}
+		"speedcane"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"272"
+				"y"		"32"
+				"width"		"96"
+				"height"	"32"
+		}
+		"cyclops"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"272"
+				"y"		"64"
+				"width"		"96"
+				"height"	"32"
+		}
+		"crocodile"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"0"
+				"y"		"488"
+				"width"		"128"
+				"height"	"32"
+		}
+		"ubersaw"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"0"
+				"y"		"224"
+				"width"		"128"
+				"height"	"32"
+		}
+	}	
+}

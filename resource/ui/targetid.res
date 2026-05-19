@@ -1,29 +1,54 @@
-"Resource/UI/TargetID.res"
+"."
 {
 	"TargetIDBG"
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"TargetIDBG"
 		"xpos"			"0"
-		"ypos"			"0"
+		"ypos"			"8"
 		"zpos"			"-1"
 		"wide"			"f0"
 		"tall"	 		"50"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../hud/color_panel_brown"
+		"image"			"../hud/targetid/targetid_neu"
 		"scaleImage"	"1"
-		"teambg_1"		"../hud/color_panel_brown"
-		"teambg_2"		"../hud/color_panel_red"
-		"teambg_3"		"../hud/color_panel_blu"
-		"teambg_4"		"../hud/color_panel_grn"
-		"teambg_5"		"../hud/color_panel_ylw"
-		
-		"src_corner_height"		"23"				// pixels inside the image
-		"src_corner_width"		"23"
-			
-		"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"5"	
+		"teambg_1"		"../hud/targetid/targetid_neu"
+		"teambg_2"		"../hud/targetid/targetid_red"
+		"teambg_3"		"../hud/targetid/targetid_blu"
+		"teambg_4"		"../hud/targetid/targetid_grn"
+		"teambg_5"		"../hud/targetid/targetid_ylw"
+	}
+	
+	"TargetIDBGContour"
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"TargetIDBGContour"
+		"pin_to_sibling"	"TargetIDBG"
+		"xpos"			"0"
+		"ypos"			"-4"
+		"zpos"			"-2"
+		"wide"			"f0"
+		"tall"	 		"32"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/targetid/targetid_contour"
+		"scaleImage"	"1"
+	}
+	"TargetIDBGContourDark"
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"TargetIDBGContourDark"
+		"pin_to_sibling"	"TargetIDBG"
+		"xpos"			"0"
+		"ypos"			"20"
+		"zpos"			"-2"
+		"wide"			"f0"
+		"tall"	 		"64"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/targetid/targetid_contourdark"
+		"scaleImage"	"1"
 	}
 	
 	"MedalImage"
@@ -47,15 +72,15 @@
 	{	
 		"ControlName"	"Label"
 		"fieldName"		"TargetNameLabel"
-		"font"			"HudFontSmall"
+		"font"			"HudFontSmallestBold"
 		"font_minmode"	"HudFontSmallest"
 		"xpos"			"8"
 		"xpos_minmode"	"30"
-		"ypos"			"1"
+		"ypos"			"11"
 		"ypos_minmode"	"1"
 		"zpos"			"1"
 		"wide"			"640"
-		"tall"			"20"
+		"tall"			"21"
 		"tall_minmode"	"16"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -65,7 +90,8 @@
 		"textAlignment"	"West"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"dropshadow"	"1"
+		"dropshadow_override"		"1"
+		"dropshadowoffset"	"2"
 	}
 	"TargetDataLabel"
 	{	
@@ -75,7 +101,7 @@
 		"font_minmode"		"StatsFont"
 		"xpos"				"8"
 		"xpos_minmode"		"30"
-		"ypos"				"16"
+		"ypos"				"2"
 		"ypos_minmode"		"11"
 		"zpos"				"1"
 		"wide"				"280"
@@ -96,7 +122,7 @@
 		"fieldName"					"SpectatorGUIHealth"
 		"xpos"						"2"
 		"xpos_minmode"				"-1"
-		"ypos"						"1"
+		"ypos"						"2"
 		"ypos_minmode"				"-2"
 		"wide"						"30"
 		"tall"						"32"
@@ -113,7 +139,7 @@
 		"fieldName"		"MoveableSubPanel"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"-5"
+		"zpos"			"5"
 		"wide"			"34"
 		"tall"			"35"
 		"visible"		"1"
@@ -130,8 +156,8 @@
 			"wide"			"37"
 			"tall"			"35"
 			"tall_minmode"	"29"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 			"icon"			"obj_status_alert_background_nocolor"
 			"iconColor"		"HudBlack"
 			"scaleImage"	"1"
@@ -149,7 +175,7 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"MoveableIcon"
-			"xpos"			"5"
+			"xpos"			"10"
 			"xpos_minmode"	"8"
 			"ypos"			"2"
 			"ypos_minmode"	"2"
@@ -162,12 +188,10 @@
 			"image"			"resource/svgs/engineer/hud_obj_status_haul.svg"
 			"scaleImage"	"1"
 			"dropshadow"	"1"
-			
-			"drawcolor"		"ProgressBar.FgColor"
-			
+						
 			if_hidekeybinds
 			{
-				"xpos"			"0"
+				"xpos"			"7"
 				"xpos_minmode"	"0"
 				"ypos"			"3"
 				"ypos_minmode"	"1"
@@ -213,4 +237,20 @@
 		"scaleImage"	"1"	
 		"color_outline"	"52 48 45 255"
 	}	
+	
+		"AvatarImageContour"
+		{
+			"ControlName"	"EditablePanel"
+			"fieldName"		"AvatarImageContour"
+			"pin_to_sibling" "AvatarImage"
+			"xpos"			"3"
+			"ypos"			"3"
+			"zpos"			"9"
+			"wide"			"25"
+			"tall"			"25"
+			"visible"		"1"
+			"enabled"		"1"
+			"scaleImage"	"1"	
+			"bgcolor_override"	"TanLight"
+		}	
 }

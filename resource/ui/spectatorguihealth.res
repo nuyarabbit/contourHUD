@@ -32,19 +32,30 @@
 		"image"			"../hud/health_equip_bg"
 		"scaleImage"	"1"	
 	}	
-	"PlayerStatusHealthBonusImage"
+	
+	"PlayerStatusHealthImageAbove"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"6"
-		"ypos"			"7"
-		"zpos"			"3"
-		"wide"			"18"
-		"tall"			"18"
-		"visible"		"0"
+		"fieldName"		"PlayerStatusHealthImageAbove"
+		"pin_to_sibling"	"PlayerStatusHealthValue"
+		"xpos"			"-10"
+		"ypos"			"-33"
+		"zpos"			"5"
+		"wide"			"51"
+		"tall"			"54"
+		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../hud/health_over_bg"
+		"image"			"resource/svgs/health/health_bar_small_bottom_mask.svg"
+		"drawcolor" 	"ContourDark"
 		"scaleImage"	"1"	
+	}
+	
+	"PlayerStatusHealthBonusImage"
+	{
+		"xpos"			"9999"
+		"ypos"			"9999"
+		"visible"		"0"
+		"enabled"		"0"
 	}
 	
 	"PlayerStatusHealthValue"

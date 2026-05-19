@@ -344,7 +344,7 @@
 		
 		"model_ypos"			"10"
 		"model_center_x"		"1"
-		"model_wide"			"100"
+		"model_wide"			"90"
 		"model_tall"			"60"
 		
 		"text_xpos"				"10"

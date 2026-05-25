@@ -154,6 +154,7 @@
 		"scaleImage"	"1"
 		"image"			"../hud/health/health_bar/health_bar_outer"
 	}
+	
 	"HealthBGContour"
 	{
 		"ControlName"	"ImagePanel"
@@ -161,7 +162,7 @@
 		"pin_to_sibling" "HealthBG"
 		"xpos"			"3"
 		"ypos"			"-3"
-		"zpos"			"3"
+		"zpos"			"0"
 		"wide"					"100"
 		"tall"					"100"
 		"visible"		"1"

@@ -80,4 +80,32 @@ Scheme
 			"color"					"ContourDark"
 		}
 	}
+	
+	Fonts 
+	{
+		"HudFontGiantBoldOutline"
+		{
+			"1"
+			{
+				"name"		"TF2C Build Outline"
+				"tall"		"44"
+				"tall_lodef"	"52"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
+		"HudFontMediumBoldOutline"
+		{
+			"1"
+			{
+				"name"		"TF2C Build Outline"
+				"tall"		"24"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+	}
 }

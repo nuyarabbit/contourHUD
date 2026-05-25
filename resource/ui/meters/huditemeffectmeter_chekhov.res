@@ -72,6 +72,24 @@
 		"fgcolor_override"		"TanLight"
 	}
 	
+	"ItemEffectMeterCountOutline"
+	{
+		"ControlName"			"Label"
+		"fieldName"				"ItemEffectMeterCountOutline"
+			"fgcolor_override"		"ContourDark"
+			"pin_to_sibling"	"ItemEffectMeterCount"
+			"xpos"			"3"
+			"ypos"			"4"
+		"zpos"					"2"
+		"wide"					"36"
+		"tall"					"27"
+		"visible"				"1"
+		"enabled"				"1"
+		"labelText"				"%progresscount%"
+		"textAlignment"			"center"
+		"font"					"HudFontMediumBoldOutline"
+	}
+	
 	"ItemEffectMeter"
 	{
 		"visible"				"0"

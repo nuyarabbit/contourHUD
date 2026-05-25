@@ -107,5 +107,29 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
+		"HudFontSmallBoldOutline"
+		{
+			"1"
+			{
+				"name"		"TF2C Build Outline"
+				"tall"		"14"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
+		"HudFontSmallestBoldOutline"
+		{
+			"1"
+			{
+				"name"		"TF2C Build Outline"
+				"tall"		"11"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
 	}
 }

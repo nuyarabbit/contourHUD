@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="icon_logo.svg"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path
+     id="Shape_7_copy"
+     data-name="Shape 7 copy"
+     class="cls-1"
+     d="M 116,128 H 76 A 12,12 0 0 1 64,116 V 76 A 12,12 0 0 1 76,64 h 8 L 96,76 H 76 v 40 h 40 V 96 l 12,12 v 8 a 12,12 0 0 1 -12,12 z m 0,-44 -24,24 -8,-8 24,-24 -12,-12 h 32 V 96 Z M 76.708,43.756 83.856,3.2 A 64,64 0 0 1 127.448,56 H 86.532 A 24.144,24.144 0 0 0 76.708,43.756 Z M 43.72,51.284 3.2,44.136 A 64,64 0 0 1 64,0 c 0.72,0 1.416,0.076 2.128,0.1 L 59,40.54 A 24,24 0 0 0 43.72,51.284 Z m 7.6,32.9 -7.168,40.548 A 63.904,63.904 0 0 1 0,64 c 0,-0.72 0.084,-1.416 0.108,-2.128 l 40.476,7.136 a 23.908,23.908 0 0 0 10.72,15.176 z"
+     style="stroke-width:4" />
+</svg>

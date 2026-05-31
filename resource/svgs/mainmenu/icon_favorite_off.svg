@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="icon_favorite_off.svg"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path
+     id="Polygon_1_copy_2"
+     data-name="Polygon 1 copy 2"
+     class="cls-1"
+     d="M 97.127323,82.062032 103.54683,128 63.9765,107.38497 24.406171,128 30.825677,82.062032 -0.047,48.863331 43.48914,41.087311 63.9765,-0.047 84.46386,41.087311 128,48.863331 Z M 74.828617,55.633935 63.9765,33.865865 53.124383,55.633935 30.063635,59.751356 46.421605,77.306251 43.022339,101.61579 63.9765,90.707817 84.934651,101.61579 81.531395,77.31822 97.889365,59.763325 Z"
+     style="stroke-width:3.98975" />
+</svg>

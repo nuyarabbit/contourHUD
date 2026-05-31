@@ -1,0 +1,11 @@
+<svg id="icon_exit.svg" xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M108,58L93,73V64H63V52H93V43ZM75,28H33L57,40v72L21,94V16H87V46H75V28Zm0,42H87v30H63V88H75V70Z"/>
+</svg>

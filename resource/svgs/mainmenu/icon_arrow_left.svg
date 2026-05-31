@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="icon_arrow_left.svg"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path
+     class="cls-1"
+     d="M 57.037614,128 A 59.92206,59.92206 0 0 1 12.597291,108.28394 L 23.936931,96.944302 A 44.15162,44.15162 0 1 0 36.768207,28.754088 L 45.697973,44.195728 10.837,34.860973 20.179773,0 28.752669,14.836163 A 60.118539,60.118539 0 1 1 57.037614,128 Z"
+     id="path1"
+     style="stroke-width:4.00977" />
+</svg>

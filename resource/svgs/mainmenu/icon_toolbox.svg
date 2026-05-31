@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.2"
+   viewBox="0 0 128 128"
+   width="128"
+   height="128"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1" />
+  <title
+     id="title1">icons_menu_final</title>
+  <style
+     id="style1">
+		.s0 { fill: #ffffff } 
+	</style>
+  <g
+     id="icon_backpack"
+     transform="matrix(1.3333333,0,0,1.3333333,-21.33333,-21.333333)">
+    <g
+       id="toolkit">
+      <g
+         id="thick">
+        <path
+           id="Rectangle 1 copy"
+           fill-rule="evenodd"
+           class="s0"
+           d="m 22,55 h 84 l 6,12 -1,6 H 76.2 L 77,67 H 53 l 0.8,6 H 17 l -1,-6 z m 84,48 H 22 L 18,79 H 54.5 L 56,91 H 74 L 75.5,79 H 110 Z" />
+        <path
+           id="Rectangle 30 copy 3"
+           fill-rule="evenodd"
+           class="s0"
+           d="m 40,31 c 0,-3.3 2.7,-6 6,-6 h 36 c 3.3,0 6,2.7 6,6 v 6 h 12 V 49 H 82 c -3.3,0 -6,-2.7 -6,-6 V 37 H 52 v 6 c 0,3.3 -2.7,6 -6,6 H 28 V 37 h 12 z" />
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>icons_menu_final</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

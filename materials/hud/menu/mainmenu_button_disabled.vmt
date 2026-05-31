@@ -1,8 +1,9 @@
 "UnlitGeneric"
 {
-	"$basetexture"	"hud/menu/mainmenu_button_disabled"
+	"$basetexture"	"hud/menu/button_mask"
 	"$translucent" "1"
 	"$ignorez" "1"
 	"$vertexcolor" "1"
 	"$vertexalpha" "1"
+	"$color" "{51 48 46}"
 }

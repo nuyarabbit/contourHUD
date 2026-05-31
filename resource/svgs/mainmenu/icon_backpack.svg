@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="icon_backpack.svg"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   sodipodi:docname="icon_backpack.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.6191406"
+     inkscape:cx="-15.440289"
+     inkscape:cy="16.366707"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="icon_backpack.svg" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path
+     id="path1"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:10;paint-order:markers stroke fill"
+     d="m 42.913086,14.707032 -2.311913,13.317387 -18.18164,-0.296875 -0.379494,8.45605 v 0 l 25.2832,0.07227 3.042772,-14.297661 h 25.6545 l 2.824415,14.297661 0.0059,0.04297 -0.0059,-0.04297 24.886484,-0.232425 -0.49082,-7.558785 -17.377155,-0.07461 -2.499218,-13.683013 z M 123.8877,40.640625 4.0927738,41.384766 0.06543,73.162109 H 45.963868 L 44.083008,62.6875 h 38.496094 l -1.56836,10.474609 h 46.923828 z m -73.146489,27.269531 0.931641,5.251953 1.033203,5.81836 3.138672,17.675781 16.191406,-0.527344 2.466797,-17.148437 0.837891,-5.81836 0.708984,-4.933593 z M 2.1630862,78.980469 7.7861331,113.29297 H 121.05371 l 3.23438,-34.312501 H 80.137696 l -3.458985,23.107421 -25.371093,0.84375 -4.298829,-23.951171 z"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccc" />
+</svg>

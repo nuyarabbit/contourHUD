@@ -26,11 +26,11 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImage"
-		"xpos"			"81"
-		"ypos"			"29"
+		"xpos"			"74"
+		"ypos"			"20"
 		"zpos"			"4"
-		"wide"			"72"
-		"tall"			"72"
+		"wide"			"89"
+		"tall"			"89"
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
@@ -45,6 +45,21 @@
 	{
 		"visible"		"0"
 		"enabled"		"0"
+	}
+
+	"HealthAboveBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"HealthAboveBG"
+		"xpos"			"120"
+		"ypos"			"10"
+		"zpos"			"10"
+		"wide"					"50"
+		"tall"					"50"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"
+		"image"			"../hud/health/health_bar/health_bar_outer_upper"
 	}
 
 	"HealthLowWarning"
@@ -83,11 +98,11 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"129"
-		"ypos"			"13"
-		"zpos"			"10"
+		"xpos"			"116"
+		"ypos"			"12"
+		"zpos"			"12"
 		"wide"			"60"
-		"tall"			"20"
+		"tall"			"30"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
@@ -95,21 +110,22 @@
 		"font"			"HudFontMediumBold"
 		"fgcolor"		"TanLight"
 	}
+	
 	"PlayerStatusHealthValueOutline"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueOutline"
 		"pin_to_sibling"	"PlayerStatusHealthValue"
 		"xpos"			"0"
-		"ypos"			"5"
-		"zpos"			"9"
+		"ypos"			"0"
+		"zpos"			"11"
 		"wide"			"60"
-		"tall"			"31"
+		"tall"			"30"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"HudFontMediumBoldOutline"
+		"font"			"HudFontMediumBoldOutlineThick"
 		"fgcolor"		"ContourDark"
 	}
 
@@ -117,16 +133,16 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusMaxHealthValue"
-		"xpos"			"158"
-		"ypos"			"30"
-		"zpos"			"6"
+		"xpos"			"120"
+		"ypos"			"31"
+		"zpos"			"12"
 		"wide"			"50"
-		"tall"			"18"
+		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%MaxHealth%"
-		"textAlignment"	"west"	
-		"font"			"HudFontSmallestBold"
+		"textAlignment"	"center"	
+		"font"			"HudFontSmallest"
 		"fgcolor"		"TanDark"
 	}
 	

@@ -135,7 +135,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"resource/svgs/health/health_icon_mask.svg"
-		"drawcolor" 	"DropShadow"
+		"drawcolor" 	"ContourDark"
 		"alpha"			"127.5"
 		"scaleImage"	"1"	
 	}
@@ -144,7 +144,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"HealthBG"
-		"xpos"			"90"
+		"xpos"			"68"
 		"ypos"			"374"
 		"zpos"			"3"
 		"wide"					"100"
@@ -153,6 +153,22 @@
 		"enabled"		"1"
 		"scaleImage"	"1"
 		"image"			"../hud/health/health_bar/health_bar_outer"
+	}
+	
+	"HealthAboveBGContour"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"HealthAboveBGContour"
+		"xpos"			"116"
+		"ypos"			"373"
+		"zpos"			"2"
+		"wide"					"50"
+		"tall"					"50"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"
+		"image"			"resource/svgs/health/health_bar_outer_upper_mask.svg"
+		"drawcolor" 	"TanLight"
 	}
 	
 	"HealthBGContour"

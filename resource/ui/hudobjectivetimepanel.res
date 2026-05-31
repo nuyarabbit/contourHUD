@@ -21,7 +21,7 @@
 		"fieldName"		"TimePanelBGContour"
 		"pin_to_sibling"	"TimePanelBG"
 		"xpos"			"0"
-		"ypos"			"-3"
+		"ypos"			"-4"
 		"zpos"			"1"
 		"wide"			"71"
 		"tall"			"71"
@@ -35,7 +35,7 @@
 	{
 		"ControlName"		"CTFProgressBar"
 		"fieldName"			"TimePanelProgressBar"
-		"xpos"				"63"
+		"xpos"				"65"
 		"ypos"				"6"
 		"zpos"				"4"	
 		"wide"				"20"

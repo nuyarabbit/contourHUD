@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="icon_blacklist.svg"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path
+     class="cls-1"
+     d="m 64,128 a 64,64 0 1 1 64,-64 64,64 0 0 1 -64,64 z m 0,-16 a 47.728,47.728 0 0 0 27.78,-8.904 L 24.904,36.216 A 47.948,47.948 0 0 0 64,112 Z m 0,-96 a 47.728,47.728 0 0 0 -27.784,8.904 l 66.88,66.88 A 47.948,47.948 0 0 0 64,16 Z"
+     id="path1"
+     style="stroke-width:4" />
+</svg>

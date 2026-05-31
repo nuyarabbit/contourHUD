@@ -96,12 +96,36 @@ Scheme
 			}
 		}
 		
+		"HudFontMediumBigBoldOutline"
+		{
+			"1"
+			{
+				"name"		"TF2C Build Outline"
+				"tall"		"30"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}	
+		
 		"HudFontMediumBoldOutline"
 		{
 			"1"
 			{
 				"name"		"TF2C Build Outline"
 				"tall"		"24"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
+		"HudFontMediumSmallBoldOutline"
+		{
+			"1"
+			{
+				"name"		"TF2C Build Outline"
+				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -125,6 +149,79 @@ Scheme
 			"1"
 			{
 				"name"		"TF2C Build Outline"
+				"tall"		"11"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
+		"HudFontGiantBoldOutlineThick"
+		{
+			"1"
+			{
+				"name"		"TF2C Build Outline Thick"
+				"tall"		"44"
+				"tall_lodef"	"52"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
+		"HudFontMediumBigBoldOutlineThick"
+		{
+			"1"
+			{
+				"name"		"TF2C Build Outline Thick"
+				"tall"		"30"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}	
+		
+		"HudFontMediumBoldOutlineThick"
+		{
+			"1"
+			{
+				"name"		"TF2C Build Outline Thick"
+				"tall"		"24"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
+		"HudFontMediumSmallBoldOutlineThick"
+		{
+			"1"
+			{
+				"name"		"TF2C Build Outline Thick"
+				"tall"		"18"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
+		"HudFontSmallBoldOutlineThick"
+		{
+			"1"
+			{
+				"name"		"TF2C Build Outline Thick"
+				"tall"		"14"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
+		"HudFontSmallestBoldOutlineThick"
+		{
+			"1"
+			{
+				"name"		"TF2C Build Outline Thick"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"

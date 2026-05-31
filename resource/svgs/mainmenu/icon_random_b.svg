@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="icon_random_b.svg"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path
+     class="cls-1"
+     d="M 98,112 V 96 H 70 L 57.384,79.94 71.2,63.352 78,72 H 98 V 56 l 28,28 z M 98,40 H 78 L 34,96 H 2 V 72 H 26 L 70,16 H 98 V 0 L 126,28 98,56 Z M 26,40 H 2 V 16 H 34 L 46.616,32.06 32.8,48.648 Z m 26,60 a 14,14 0 1 1 -14,14 14,14 0 0 1 14,-14 z"
+     id="path1"
+     style="stroke-width:4" />
+</svg>

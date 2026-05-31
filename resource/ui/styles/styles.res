@@ -30,13 +30,13 @@
 
 		"defaultFgColor_override"	"51 48 46 255"
 		"armedFgColor_override"		"TanLight"
-		"selectedFgColor_override"	"51 48 46 255"
+		"selectedFgColor_override"	"TanLight"
 		"depressedFgColor_override"	"TanLight"
 
 		"image_drawcolor"		"51 48 46 255"
 		"image_armedcolor"		"TanLight"
-		"image_depressedcolor"	"51 48 46 255"
-		"image_selectedcolor"	"51 48 46 255"
+		"image_depressedcolor"	"TanLight"
+		"image_selectedcolor"	"TanLight"
 		"image_disabledcolor"	"TanLight"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -591,5 +591,115 @@
 		}
 	}
 
+	"MainMenuButtonServer"
+	{
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"Quit"
+		"font"			"HudFontSmallBold"
+		"tall"			"28"
+		"wide"			"140"
 
+		"proportionalToParent"	"1"
+		"use_proportional_insets"	"1"
+		"textinsetx"		"4"
+		"textinsety"	"25"
+
+		"image_default"	"resource/svgs/mainmenu/icon_glyph.svg"
+
+		"paintborder"		"1"
+		"paintbackground"	"0"
+
+		"border_default"	"MainMenuAdvButtonDefault"
+		"border_armed"		"MainMenuAdvButtonArmed"
+		"border_disabled"	"MainMenuAdvButtonDisabled"
+		"border_selected"	"MainMenuAdvButtonDepressed"
+
+
+		"defaultFgColor_override"	"51 48 46 255"
+		"armedFgColor_override"		"TanLight"
+		"selectedFgColor_override"	"TanLight"
+		"depressedFgColor_override"	"TanLight"
+
+		"image_drawcolor"		"51 48 46 255"
+		"image_armedcolor"		"TanLight"
+		"image_depressedcolor"	"TanLight"
+		"image_selectedcolor"	"TanLight"
+		"image_disabledcolor"	"TanLight"
+		
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
+		"sound_armed"		"UI/buttonrollover.wav"
+
+		"SubImage"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"SubImage"
+			"xpos"			"4"
+			"ypos"			"6"
+			"zpos"			"1"
+			"wide"			"45"
+			"tall"			"45"
+			"visible"		"1"
+			"enabled"		"1"
+			"scaleImage"	"1"
+			"proportionalToParent"	"1"
+		}
+	}
+	
+	"MainMenuButtonLoadout"
+	{
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"Quit"
+		"font"			"HudFontSmallBold"
+		"tall"			"28"
+		"wide"			"140"
+
+		"proportionalToParent"	"1"
+		"use_proportional_insets"	"1"
+		"textinsetx"		"18"
+		"textinsety"	"25"
+
+		"image_default"	"resource/svgs/mainmenu/icon_glyph.svg"
+
+		"paintborder"		"1"
+		"paintbackground"	"0"
+
+		"border_default"	"MainMenuAdvButtonDefault"
+		"border_armed"		"MainMenuAdvButtonArmed"
+		"border_disabled"	"MainMenuAdvButtonDisabled"
+		"border_selected"	"MainMenuAdvButtonDepressed"
+
+
+		"defaultFgColor_override"	"51 48 46 255"
+		"armedFgColor_override"		"TanLight"
+		"selectedFgColor_override"	"TanLight"
+		"depressedFgColor_override"	"TanLight"
+
+		"image_drawcolor"		"51 48 46 255"
+		"image_armedcolor"		"TanLight"
+		"image_depressedcolor"	"TanLight"
+		"image_selectedcolor"	"TanLight"
+		"image_disabledcolor"	"TanLight"
+		
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
+		"sound_armed"		"UI/buttonrollover.wav"
+
+		"SubImage"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"SubImage"
+			"xpos"			"4"
+			"ypos"			"6"
+			"zpos"			"1"
+			"wide"			"45"
+			"tall"			"45"
+			"visible"		"1"
+			"enabled"		"1"
+			"scaleImage"	"1"
+			"proportionalToParent"	"1"
+		}
+	}
 }

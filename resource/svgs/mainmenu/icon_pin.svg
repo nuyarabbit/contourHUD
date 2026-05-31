@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="icon_pin.svg"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path
+     class="cls-1"
+     d="M 128,52 H 100 L 82.448,69.552 a 36,36 0 0 1 -8.992,35.904 L 22.544,54.544 A 36,36 0 0 1 58.448,45.552 L 76,28 V 0 Z M 48,96 0,128 32,80 Z"
+     id="path1"
+     style="stroke-width:4" />
+</svg>

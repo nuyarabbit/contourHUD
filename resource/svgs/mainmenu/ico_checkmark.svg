@@ -1,0 +1,11 @@
+<svg id="ico_checkmark" xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M121,46s-18.711,9.145-40,32a201.48,201.48,0,0,0-30,42,88.452,88.452,0,0,0-19-15A72.829,72.829,0,0,0,7,96L17,62s8.021,1.188,19,8c9.621,5.97,14,10,14,10s4.431-14.594,17-37C79.678,20.4,93,8,93,8Z"/>
+</svg>

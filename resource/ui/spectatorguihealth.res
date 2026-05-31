@@ -89,7 +89,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"HudFontSmallestBoldOutline"
+		"font"			"HudFontSmallestBoldOutlineThick"
 		"fgcolor"		"ContourDark"
 	}
 }

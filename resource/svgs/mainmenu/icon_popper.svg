@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.2"
+   viewBox="0 0 128 128"
+   width="128"
+   height="128"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1" />
+  <title
+     id="title1">icons_menu_final</title>
+  <style
+     id="style1">
+		.s0 { fill: #ffffff } 
+	</style>
+  <g
+     id="icon_popper"
+     transform="matrix(1.1034483,0,0,1.1034483,-6.2347243,-6.6206897)">
+    <path
+       id="Shape 27"
+       fill-rule="evenodd"
+       class="s0"
+       d="m 74,93.7 q 0.1,0 0.1,0 l -20.4,8.5 Q 50.8,100.1 48,97.3 C 33.1,82.4 31.9,64 32.4,54.6 l 0.7,-1.9 q 0,0 0.1,0.2 c 0.4,-1.4 1,-2.7 2,-3.7 3.2,-3.1 8.7,-3.2 15,-0.8 l -1,5.6 c -4.3,-2 -7.9,-2.4 -9.7,-0.6 -3.5,3.5 1.2,14 10.6,23.4 9.4,9.3 19.8,14.1 23.3,10.6 C 75.5,85.3 74.7,81 72,75.9 l 4.9,-2.8 c 3.9,7.7 4.5,14.8 0.8,18.5 -1,1 -2.3,1.7 -3.7,2.1 z M 62.8,64 C 60.7,61.9 58.5,60 56.3,58.4 L 57.4,52 c 3.3,2.1 6.6,4.7 9.7,7.8 q 2.7,2.8 5,5.7 l -5.5,2.7 Q 64.9,66.1 62.8,64 Z m -23.3,41.8 q 0.9,0.8 1.8,1.6 l -12,5 c -6,-6.5 -9.5,-13.6 -11.5,-20.2 l 6.6,-17 c 1.3,9.3 5.2,20.7 15.1,30.6 z m -27.6,1.7 c 1.5,3.2 3.4,6.5 5.8,9.7 L 6.3,122 Z" />
+    <path
+       id="Shape 24 copy"
+       fill-rule="evenodd"
+       class="s0"
+       d="M 105,62 V 50 c -23.4,-0.8 -30,6 -30,6 0,0 8.2,-20.6 30,-24 L 99,20 C 77.6,22.2 66,50 66,50 66,50 69,38.7 69,32 69,16.1 63,14 63,14 l -12,6 c 0,0 6,4.5 6,18 0,24.7 -4,29 -4,29 l 7,6 c 0,0 12.2,-11 45,-11 z" />
+    <path
+       id="Rectangle 24"
+       fill-rule="evenodd"
+       class="s0"
+       d="M 88,30 94,6 117.6,14.3 111,37 Z" />
+    <path
+       id="Rectangle 25"
+       fill-rule="evenodd"
+       class="s0"
+       d="M 46,23 52.6,6 70,10.6 63,28 Z" />
+    <path
+       id="Rectangle 26"
+       fill-rule="evenodd"
+       class="s0"
+       d="m 97,56 12,-12 12,12 -12,12 z" />
+    <path
+       id="Shape 28"
+       fill-rule="evenodd"
+       class="s0"
+       d="m 89.1,76.4 -0.8,13.4 18.6,3.8 0.8,-13.4 z" />
+    <path
+       id="Shape 28 copy"
+       fill-rule="evenodd"
+       class="s0"
+       d="M 43.2,38.3 29.6,42 20.8,24.7 34.4,21 Z" />
+  </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>icons_menu_final</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

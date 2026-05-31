@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="icon_lock.svg"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path
+     class="cls-1"
+     d="M 16,128 V 64 A 12,12 0 0 1 28,52 h 72 a 12,12 0 0 1 12,12 v 64 z M 80,80 A 16,16 0 1 0 55.496,93.508 L 48,116 H 80 L 72.504,93.508 A 15.952,15.952 0 0 0 80,80 Z M 80,31 A 15,15 0 0 0 65,16 H 63 A 15,15 0 0 0 48,31 V 44 H 32 V 27 A 27,27 0 0 1 59,0 H 69 A 27,27 0 0 1 96,27 V 44 H 80 Z"
+     id="path1"
+     style="stroke-width:4" />
+</svg>

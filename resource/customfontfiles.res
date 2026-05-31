@@ -188,5 +188,10 @@ Scheme
 			"font" "resource/fonts/TF2CBuildOutline.ttf"
 			"name" "TF2C Build Outline"
 		}
+		"23" 
+		{
+			"font" "resource/fonts/TF2CBuildOutlineThick.ttf"
+			"name" "TF2C Build Outline Thick"
+		}
 	}
 }

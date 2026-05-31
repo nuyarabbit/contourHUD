@@ -105,22 +105,6 @@
 
 	}
 
-	"LoadoutBackgroundPattern"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"LoadoutBackgroundPattern"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"-2"
-		"wide"			"f0"
-		"tall"			"480"
-		"visible"		"1"
-		"enabled"		"1"
-		"alpha"			"2"
-		"image"			"resource/svgs/loadoutmenu/line_pattern_full.svg"
-		"scaleImage"	"1"
-	}
-
 	"LoadoutBG"
 	{
 		"ControlName"	"ImagePanel"
@@ -142,7 +126,7 @@
 		"fieldName"			"ClassLabel"
 		"xpos"				"0"
 		"ypos"				"89"
-		"zpos"				"6"
+		"zpos"				"0"
 		"wide"				"f0"
 		"tall"				"30"
 		"autoResize"		"0"

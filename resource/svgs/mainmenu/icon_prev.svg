@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="icon_prev.svg"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path
+     id="shape_52_copy"
+     data-name="shape 52 copy"
+     class="cls-1"
+     d="M 128,128 32,70.4 V 128 H 0 V 0 H 32 V 57.6 L 128,0 Z"
+     style="stroke-width:4" />
+</svg>

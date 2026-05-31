@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.2"
+   viewBox="0 0 128 128"
+   width="128"
+   height="128"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1" />
+  <title
+     id="title1">icons_menu_final</title>
+  <style
+     id="style1">
+		.s0 { fill: #ffffff } 
+	</style>
+  <g
+     id="icon_cleft_off"
+     transform="matrix(1.254902,0,0,1.254902,-16.313725,-16.313725)">
+    <g
+       id="Group 23">
+      <path
+         id="Shape 45 copy"
+         fill-rule="evenodd"
+         class="s0"
+         d="m 28,67 q 1.5,0 3,0.3 V 19 L 98.2,35.8 81.4,52.6 43,43 V 82 C 43,90.3 36.3,97 28,97 19.7,97 13,90.3 13,82 13,73.7 19.7,67 28,67 Z m 75,27 c 0,8.3 -6.7,15 -15,15 -8.3,0 -15,-6.7 -15,-15 0,-8.3 6.7,-15 15,-15 q 1.5,0 3,0.3 V 61 l 12,-12 z" />
+      <path
+         id="Shape 46 copy"
+         fill-rule="evenodd"
+         class="s0"
+         d="m 13,106 9,9 93,-93 -9,-9 z" />
+    </g>
+  </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>icons_menu_final</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

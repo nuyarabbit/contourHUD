@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="icon_ping_quad_c.svg"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        opacity: 0.5;
+      }
+    </style>
+  </defs>
+  <path
+     class="cls-1"
+     d="M 68,128 V 32 h 24 v 96 z M 36,64 h 24 v 64 H 36 Z M 4,96 h 24 v 32 H 4 Z"
+     id="path1"
+     style="stroke-width:4" />
+  <rect
+     class="cls-2"
+     x="100"
+     width="24"
+     height="128"
+     id="rect1"
+     y="0"
+     style="stroke-width:4" />
+</svg>

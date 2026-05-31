@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="icon_download.svg"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path
+     class="cls-1"
+     d="M 116,128 H 12 A 12,12 0 0 1 0,116 V 72 h 16 v 40 h 96 V 72 h 16 v 44 a 12,12 0 0 1 -12,12 z M 28,52 H 52 V 0 h 24 v 52 h 24 L 64,88 Z"
+     id="path1"
+     style="stroke-width:4" />
+</svg>

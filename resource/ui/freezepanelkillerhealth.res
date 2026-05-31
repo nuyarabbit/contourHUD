@@ -69,17 +69,10 @@
 
 	"PlayerStatusHealthBonusImage"
 	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"6"
-		"ypos"			"7"
-		"zpos"			"3"
-		"wide"			"18"
-		"tall"			"18"
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"visible"		"0"
-		"enabled"		"1"
-		"image"			"../hud/health_over_bg"
-		"scaleImage"	"1"	
+		"enabled"		"0"
 	}
 	
 	"PlayerStatusHealthValue"
@@ -88,7 +81,7 @@
 		"fieldName"		"PlayerStatusHealthValue"
 		"pin_to_sibling" "PlayerStatusHealthImage"
 		"xpos"			"-5"
-		"ypos"			"-50"
+		"ypos"			"-48"
 		"zpos"			"7"
 		"wide"			"50"
 		"tall"			"20"
@@ -98,7 +91,23 @@
 		"textAlignment"	"center"	
 		"font"			"HudFontMediumSmallBold"
 		"fgcolor"		"TanLight"
-		"dropshadow_override"		"1"
-		"dropshadowoffset"	"2"
+	}
+	
+	"PlayerStatusHealthValueOutline"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"PlayerStatusHealthValueOutline"
+		"pin_to_sibling" "PlayerStatusHealthValue"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"6"
+		"wide"			"50"
+		"tall"			"20"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"%Health%"
+		"textAlignment"	"center"	
+		"font"			"HudFontMediumSmallBoldOutlineThick"
+		"fgcolor"		"ContourDark"
 	}
 }

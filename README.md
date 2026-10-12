@@ -1,13 +1,11 @@
 <p align="center">
-    <img width="60%" src="https://github.com/user-attachments/assets/c8875f84-29d2-4ba4-8ab6-a0b8a2030f0e"> 
+    <img width="60%" src="https://github.com/user-attachments/assets/1526ac66-7357-41d2-abdd-69cbb3e5c3ff"> 
 </p>
 
-> [!WARNING]
-> This HUD is undergoing a plentiful amount of changes <sub>*(once again...)*</sub>, and this project will be moved to a new repository soon-ish!
+> [!IMPORTANT]
+> This HUD is undergoing a plentiful amount of changes! <sub>*(once again...)*</sub>
 >
-> It will include a name change, a TF2 version, alongside a TF2C port :3 
-
-<sub>(and to those who know. Yes, the pun is on purpose :3)</sub>
+> It will include a TF2 version, alongside a TF2C port :3 
 
 # Installation
 
